@@ -23,6 +23,7 @@ skills:
  - Java
  - Spring
  - C#
+ - .Net
  - Angular
  - React
  - JPA
@@ -30,6 +31,12 @@ skills:
  - REST
 
 
+education:
+ - level: Bachelor of Engineering (B.Sc.)
+   date: 2020
+   subject: Computer Engineering
+   school: Erciyes University
+   
 #Work experience is required
 roles:
  - title: Intern
@@ -38,12 +45,7 @@ roles:
    employer: Embedded System Software Developer
    description: programming microprocessor and circuit design.
 
-#Education is required
-education:
- - level: Bachelor of Engineering (B.Sc.)
-   date: 2020
-   subject: Computer Engineering
-   school: Erciyes University
+
 
 #This section is optional (as is the image link below)
 

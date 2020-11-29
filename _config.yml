@@ -23,7 +23,7 @@ skills:
  - Java
  - Spring
  - C#
- - .Net
+ - .Net Core
  - Angular
  - React
  - JPA
@@ -31,6 +31,13 @@ skills:
  - REST
 
 
+roles:
+ - title: Intern
+   start: 2019
+   end: 2019
+   employer: Embedded System Software Developer
+   description: programming microprocessor and circuit design.
+   
 education:
  - level: Bachelor of Engineering
    date: 2020
@@ -38,12 +45,7 @@ education:
    school: Erciyes University
    
 #Work experience is required
-roles:
- - title: Intern
-   start: 2019
-   end: 2019
-   employer: Embedded System Software Developer
-   description: programming microprocessor and circuit design.
+
 
 
 
@@ -55,6 +57,7 @@ stackoverflow:
 
 #List of interesting Github repo/projects to include - optional
 github:
+ - samedyuksel/SocialNetwork
  - samedyuksel/IssueManagement
  - samedyuksel/TeachBase
  - samedyuksel/norhwind-shop

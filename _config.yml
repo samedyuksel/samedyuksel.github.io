@@ -30,12 +30,17 @@ skills:
  - SQL
  - REST
 
-
+roles:
+ - title: Software Development Assistant Specialist
+   start: 2021
+   end: 
+   employer: Ekol Logistics
+   description: Delphi, .Net Framework, C++
 roles:
  - title: Intern
    start: 2019
    end: 2019
-   employer: Embedded System Software Developer
+   employer: Tahtasakal Ar-Ge
    description: programming microprocessor and circuit design.
    
 education:
